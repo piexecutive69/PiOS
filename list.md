@@ -18,7 +18,7 @@ To add your project to the list follow the instructions [here](/README.md)
 | Pi SDK for Go | Go version of the Pi SDK for making A2U and U2A Payments | SDK | Go        |      [pi-go](https://github.com/pi-apps/pi-go)        |                           |
 | Pi SDK for PHP| App to User payment for Pi in PHP language | SDK | PHP        | [pi-php](https://github.com/pi-apps/pi-php/tree/main)            | [pi-brainstorm](https://brainstorm.pi/project/63cd02acea109c003afe2c2a)                         |
 | Pi SDK for Rust | Secure App-to-User (A2U) integration for Pi Network in Rust. Supports OAuth verification, payment creation, approval, and cancellation � a full backend SDK for Rust developers. | SDK | Rust        |    [pi-rust](https://github.com/pi-apps/pi-rust)       |                        |
-| Pi SDK for JavaScript | JavaScript backend SDK wrapper for Pi Platform API, supporting U2A and A2U payment flows, server-side approval/completion/cancel, and user token verification. | SDK | JavaScript/Node.js | [executive-pi](https://github.com/piexecutive69/executive-pi) | |
+| Pi SDK for JavaScript | JavaScript backend SDK wrapper for Pi Platform API, supporting U2A and A2U payment flows, server-side approval/completion/cancel, and user token verification. | SDK | JavaScript/Node.js | [executive-pi](https://www.npmjs.com/package/executive-pi) | |
 
 
 <br/>
